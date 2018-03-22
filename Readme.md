@@ -1,6 +1,6 @@
 
 # Data augmentation using generative model
-The code in this repository is related to the paper by Axelsen et al with the title 'Data Augmentation Using Generative Model' which is submitted to IEEE TPAMI.
+The code in this repository is related to the unpublished paper by Axelsen et al with the title 'Data Augmentation Based on Generative Model'.
 
 The key function for generating synthetic data which can be used for augmentation is `naive_bayes`.
 This if composed as a class, which needs to be trained on training data before it can either predict or generate.
